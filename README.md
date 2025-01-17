@@ -1,6 +1,6 @@
 ## Caricatore dati catastali della provincia autonoma di Trento
 
-### Il progetto serve a caricare massivamente i dati scaricati dal catasto di Trento per poi inserire la posizione e il perimetro degli edifici all'interno di un database
+### Applicativo atto a caricare massivamente i dati scaricati dal catasto di Trento, per poi inserire la posizione e il perimetro degli edifici all'interno del database del Sinfi
 
 In collaborazione con
 
