@@ -1,13 +1,41 @@
-Il progetto serve a caricare massivamente i dati scaricati dal catasto di Trento per poi inserire la posizione e il perimetro degli edifici all'interno di un database
+## Caricatore dati catastali della provincia autonoma di Trento
+
+### Il progetto serve a caricare massivamente i dati scaricati dal catasto di Trento per poi inserire la posizione e il perimetro degli edifici all'interno di un database
 
 In collaborazione con
 
-<img src="https://github.com/giuseppecasillo3.png" width="60px;"/><br /><sub><ahref="https://github.com/giuseppecasillo3">giuseppecasillo3</a></sub>
-<img src="https://github.com/melissappiss.png" width="60px;"/><br /><sub><ahref="https://github.com/melissappiss">melissappiss</a></sub>
-<img src="https://github.com/Chay-06.png" width="60px;"/><br /><sub><ahref="https://github.com/Chay-06">Chay-06</a></sub>
-<img src="https://github.com/Loo-cho.png" width="60px;"/><br /><sub><ahref="https://github.com/Loo-cho">Loo-cho</a></sub>
-<img src="https://github.com/MattT24.png" width="60px;"/><br /><sub><ahref="https://github.com/MattT24">MattT24</a></sub>
-<img src="https://github.com/Matteowuitre.png" width="60px;"/><br /><sub><ahref="https://github.com/Matteowuitre">Matteowuitre</a></sub>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/giuseppecasillo3.png" width="60px;" /><br />
+      <sub><a href="https://github.com/giuseppecasillo3">giuseppecasillo3</a></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/melissappiss.png" width="60px;" /><br />
+      <sub><a href="https://github.com/melissappiss">melissappiss</a></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chay-06.png" width="60px;" /><br />
+      <sub><a href="https://github.com/Chay-06">Chay-06</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Loo-cho.png" width="60px;" /><br />
+      <sub><a href="https://github.com/Loo-cho">Loo-cho</a></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/MattT24.png" width="60px;" /><br />
+      <sub><a href="https://github.com/MattT24">MattT24</a></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Matteowuitre.png" width="60px;" /><br />
+      <sub><a href="https://github.com/Matteowuitre">Matteowuitre</a></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 ```
 caricatore_catasto_trento
